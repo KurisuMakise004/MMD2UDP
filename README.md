@@ -1,6 +1,6 @@
 # MMD2UDP
 
-**[Download](https://github.com/KurisuMakise004/MMD2UDP/raw/main/build_windows.7z)**
+**[Download](https://github.com/KurisuMakise004/MMD2UDP/raw/main/MMD2UDP_x64.7z)**
 
 A tool for converting MikuMikuDance models (.pmx) with motions(.vmd) to UltraDensePose sequences. 
 
