@@ -1,7 +1,7 @@
 # MMD2UDP
 
 **[Download](https://github.com/KurisuMakise004/MMD2UDP/raw/main/MMD2UDP_x64.7z)**
-**[Run on COLAB](https://colab.research.google.com/github/KurisuMakise004/MMD2UDP/blob/main/COLAB.ipynb)**
+**[Google Colab](https://colab.research.google.com/github/KurisuMakise004/MMD2UDP/blob/main/COLAB.ipynb)**
 
 A tool for converting MikuMikuDance models (.pmx) with motions(.vmd) to UltraDensePose sequences. 
 
