@@ -1,4 +1,4 @@
-# MMD2UDP
+# MMD2UDP [[Unmaintained. Please use MMD2depth instead.](https://github.com/KurisuMakise004/MMD2depth) ]
 
 **[Download](https://github.com/KurisuMakise004/MMD2UDP/raw/main/MMD2UDP_x64.7z)**
 **[Google Colab](https://colab.research.google.com/github/KurisuMakise004/MMD2UDP/blob/main/COLAB.ipynb)**
